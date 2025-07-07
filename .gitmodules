@@ -1,3 +1,9 @@
 [submodule "let-chill-recommendation-api"]
 	path = let-chill-recommendation-api
 	url = https://github.com/YenTranSl/let-chill-recommendation-api
+[submodule "letChill-backend"]
+	path = letChill-backend
+	url = https://github.com/swingsofwindy/letChill-backend
+[submodule "letChill-frontend"]
+	path = letChill-frontend
+	url = https://github.com/nguyenkhoaquan161004/project1_letchill
