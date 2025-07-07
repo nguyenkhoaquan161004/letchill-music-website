@@ -1,0 +1,3 @@
+[submodule "let-chill-recommendation-api"]
+	path = let-chill-recommendation-api
+	url = https://github.com/YenTranSl/let-chill-recommendation-api
